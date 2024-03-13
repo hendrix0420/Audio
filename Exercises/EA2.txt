@@ -10,7 +10,7 @@ Video 2:
 Part 2:
 Video 1 --- 7:14-11:59 --- A = ATC --- P = Pilot
 
-A: Air India 101 Heavy, I'm havig trouble finding anything that's really that good. I have Albany (KALB), it's 600 feet overcast and Boston Logan (KBOS) would be 500 overcast...I'm trying to find Washington Dulles (KIAD) is 200 feet also.
+A: Air India 101 Heavy, I'm havig trouble finding anything that's really that good. I have Albany (KALB), it's 600 feet overcast and Boston Logan (KBOS) would be 500 overcast...I'm trying to find Washington Dulles (KIAD) is 200 feet or so.
 P: Okay, and any idea of the trend as far as it goes? Or is it indefinite as you said earlier?
 A: Yeah, I supposed it's distinct cloudy, it's just a kind of a marine layer for the most of the morning, I believe.
 P: Okay, we were just checking Boston as well because we are getting a little low on the fuel as well so we need to decide quick, and we are burning quite a lot at this time.
@@ -30,11 +30,11 @@ A: Air India 102...101 Heavy, climb and maintain 6000.
 P: Climb and maintain 6000, Air India 101.
 A: Air India 101 Heavy, turn left heading 040.
 P: Left heading 040, Air India 101.
-A: Air India 101 Heavy, when you have time give the fuel remaining in minutes... yeah in minutes.
+A: Air India 101 Heavy, when you have time give the fuel remaining in minutes or... yeah in minutes.
 P: Uh... yeah, we'll just get back to you.
 A: Air India 101 Heavy, I think based on the weather that we have in the area and based on the forecast that I'm seeing, I think Bradley KBDL would be your best option.
 P: Uh... okay, and what's the ceiling there?
-A: Okay, right now the ceiling over there is 500 overcast and then the forecast is calling it first to get better uh... after... you know between now and 1500Z. It should get a little bit better... uhm... it's saying 1500 feet at 1500Z, but I'm trying to find Boston also.
+A: Okay, right now the ceiling at... of there is 500 overcast and then the forecast is calling it first to get better uh... after... you know between now and 1500Z. It should get a little bit better... uhm... it's saying 1500 feet at 1500Z, but I'm trying to find Boston also.
 P: Okay, do you all think that we could try over here? Because we got a trend showing us that the ceiling at JFK is also improving a bit. I could try VNAV approach over here. (Garbled) And see, it can taks us down in a situation like this because we're really, you know, stuck and there's no fuel.
 A: And I'm showing Newark just had a special (SPECI) and they're showing 400 overcast. They just had a special at 1205Z, so about 6 minutes ago.
 P: Okay, so it's a bit better now at Newark, is that correct?

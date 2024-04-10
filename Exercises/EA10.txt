@@ -1,6 +1,6 @@
 Incident: MAYDAY, PILOT INCAPACITATION on approach | Swiss Airbus A321 | Zurich airport ATC
 
-*****Æ[¬Ý§¹¾ã¼v¤ù*****
+*****è§€çœ‹å®Œæ•´å½±ç‰‡*****
 
 Video: 
 <a href="https://www.youtube.com/watch?v=0pkvVrp2p-8" target="_blank">MAYDAY, PILOT INCAPACITATION on approach | Swiss Airbus A321 | Zurich airport ATC</a>
@@ -16,7 +16,7 @@ A: SWR150Y, roger, that's copied, pilot incapacitation.
 P: Roger.
 P: SWR150Y, we've established.
 A: SWR150Y, roger, where do you like to have an ambulance and do you need any further assistance? 
-P: I don't know yet¡K probably just¡K [unclear]¡K further on the ground.
+P: I don't know yetâ€¦ probably justâ€¦ [unclear]â€¦ further on the ground.
 A: All is clear.
 P: SWR150Y, contact Tower 118.1, [good day].
 A: 18.1, SWR150Y, [good day].

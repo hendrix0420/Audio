@@ -1,6 +1,6 @@
 Incident: No landing clearance for EVA Air Boeing 777-300ER at Chicago O'Hare Airport.
 
-*****Æ[¬Ý§¹¾ã¼v¤ù*****
+*****è§€çœ‹å®Œæ•´å½±ç‰‡*****
 
 Video: 
 <a href="https://www.youtube.com/watch?v=27n9hdGL0Is" target="_blank">No landing clearance for EVA Air Boeing 777-300ER at Chicago O'Hare Airport</a>
@@ -23,14 +23,14 @@ Comments: There was no call from Eva 1056 and controller didn't give landing cle
 P1: Confirm cleared to land, Eva 1056.
 T: Affirmative, cleared to land RW 28C, Eva 1056.
 T: Eva 1056, roger, fly runway heading, turn left heading 220. 
-P1: ¡K, Eva 1056?
-T: Eva 7718 Heavy (wrong callsign), fly¡K Correction¡K Climb and maintain 5000, turn left heading 220.
+P1: â€¦, Eva 1056?
+T: Eva 7718 Heavy (wrong callsign), flyâ€¦ Correctionâ€¦ Climb and maintain 5000, turn left heading 220.
 P1: 5000, heading 220, Eva 1056.
 T: China Eastern 7718 Heavy, turn right heading 360.
 P2: Right turn 360, China Eastern 7718. 
 T: Eva 1056 Heavy, turn further left heading 220, say reason for go around.
 P1: We didn't receive landing clearance before touchdown.
-T: Eva 1056 Heavy, sorry, further left heading 140¡K for the go around.
+T: Eva 1056 Heavy, sorry, further left heading 140â€¦ for the go around.
 P1: 140, 5000, for further go around, Eva 1056 Heavy.
 T: Eva 1056 Heavy, contact Departure 126.62.
 P1: Say again, for Eva 1056.

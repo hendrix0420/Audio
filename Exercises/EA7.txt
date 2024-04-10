@@ -1,6 +1,6 @@
 Incident: January 30, 2024. CLOSE CALL. Near MIDAIR between departing Airplanes from LAX Airport.
 
-*****Æ[¬Ý§¹¾ã¼v¤ù*****
+*****è§€çœ‹å®Œæ•´å½±ç‰‡*****
 Video: 
 <a href="https://www.youtube.com/watch?v=IAskTcFEWSc" target="_blank">Near MIDAIR between departing Airplanes from LAX Airport</a>
 
@@ -16,7 +16,7 @@ A: American 345 SOCAL Departure radar contact, maintain 250 knots
 P2: 250 knonts American 345
 A: 782 turn left heading 110
 P1: Left turn heading 110 , Air canada 782
-A: 345 traffic at your 1 o¡¦clock, actually 12 o¡¦clock and 3 miles turning south¡K er north-east bound at 5000 climbing to 12000 is a Airbus.
+A: 345 traffic at your 1 oâ€™clock, actually 12 oâ€™clock and 3 miles turning southâ€¦ er north-east bound at 5000 climbing to 12000 is a Airbus.
 P2: 345 traffic insight 
 A: 345 turn right heading 250 immediately
 P2: 250
@@ -26,8 +26,8 @@ A: Air Canda 782 traffic alert of your position 2 miles turning westbound at 480
 P1: Insight Air Canada 782
 A: Maintain visual separation from that traffic
 P1: Main visual sepatation Air Canada 782
-A: Air Canada 782 climb and maintain 15¡K15000 turn left direct, actually just fly heading 090
-P1: OK heading 15000 or sorry altitude 15000 and heading ¡Kcan you say again
+A: Air Canada 782 climb and maintain 15â€¦15000 turn left direct, actually just fly heading 090
+P1: OK heading 15000 or sorry altitude 15000 and heading â€¦can you say again
 P1: 15000 and say again the heading Air Canada 782?
 A: American 345 proceed direct PEVEE. Climb and maintain 12000
 P2: 12000 direct PEVEE, American 345
@@ -37,7 +37,7 @@ A: American 345 contact Departure 134.35
 P2: 34.35 American 345
 A: Air canada 782 direct KEGGS
 P1: Direct KEGGS for Air canada 782, and just to advise we had an RA there
-A: Air Canada 782 yeah I¡¦m aware. Thank you 
+A: Air Canada 782 yeah Iâ€™m aware. Thank you 
 A: Air canada 782, contact Los Angeles Center 125.27.
 P1: 25.27, Air canada 782.
 

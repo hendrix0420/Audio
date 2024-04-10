@@ -1,0 +1,41 @@
+Incident: No landing clearance for EVA Air Boeing 777-300ER at Chicago O'Hare Airport.
+
+*****觀看完整影片*****
+
+Video: 
+<a href="https://www.youtube.com/watch?v=27n9hdGL0Is" target="_blank">No landing clearance for EVA Air Boeing 777-300ER at Chicago O'Hare Airport</a>
+
+Video --- 0:17-2:50 --- T = Tower --- A = Approach --- P1 = EVA1056 --- P2 = CES7718
+
+A: Eva 1056 Heavy, cleared visual approach RW 28C, maintain 210 knots.
+P1: Cleared visual A RW 28C, maintain 210 knots, Eva 1056 Heavy.
+A: Eva 1056 Heavy, do not exceed 170 knots to SEIKA.
+P1: Speed 170 knots to SEIKA, Eva 1056 Heavy.
+A: Eva 1056, at SEIKA contact O'Hare Tower 120.75.
+P1: After SEIKA contact Tower 120.75, Eva 1056. 
+T: Eva 1056 Heavy, caution wake turbulence from heavy departing at parallel. 
+P1: 1056.
+T: China Eastern 7718 Heavy, fly heading 270, remain this frequency, RW 28R at full length, cleared for take-off.
+P2: Heading 270, remain frequency, China Eastern 7718, cleared for take-off. 
+
+Comments: There was no call from Eva 1056 and controller didn't give landing clearance for Eva 1056.
+
+P1: Confirm cleared to land, Eva 1056.
+T: Affirmative, cleared to land RW 28C, Eva 1056.
+T: Eva 1056, roger, fly runway heading, turn left heading 220. 
+P1: …, Eva 1056?
+T: Eva 7718 Heavy (wrong callsign), fly… Correction… Climb and maintain 5000, turn left heading 220.
+P1: 5000, heading 220, Eva 1056.
+T: China Eastern 7718 Heavy, turn right heading 360.
+P2: Right turn 360, China Eastern 7718. 
+T: Eva 1056 Heavy, turn further left heading 220, say reason for go around.
+P1: We didn't receive landing clearance before touchdown.
+T: Eva 1056 Heavy, sorry, further left heading 140… for the go around.
+P1: 140, 5000, for further go around, Eva 1056 Heavy.
+T: Eva 1056 Heavy, contact Departure 126.62.
+P1: Say again, for Eva 1056.
+T: Eva 1056 Heavy, contact Departure 126.62.
+P1: 126.62, Eva 1056.
+T: And Eva 1056 Heavy, confirm you're climbing to 5000?
+P1: Affirm, we're climbing to 5000.
+T: Thank you.
